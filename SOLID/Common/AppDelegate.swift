@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  SOLID
-//
-//  Created by Даниил Орлов on 21.12.2022.
-//
-
 import UIKit
 
 @main
